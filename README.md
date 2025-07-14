@@ -125,3 +125,5 @@ Always verify the .onion links.
 
 Choosing a top market requires caution. Always prioritize security and practice safe browsing. Remember that engaging in market activities may be illegal in your jurisdiction.
 Plase contribute and add stars to this repo.
+
+Update: Route fixes
